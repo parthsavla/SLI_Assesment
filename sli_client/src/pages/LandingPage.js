@@ -155,7 +155,6 @@ export default function LandingPage() {
 							<br />
 							<br />
 							<Button onClick={() => login()}>Sign in with Google 🚀 </Button>
-							<button onClick={logOut}>Log out</button>
 						</div>
 					</div>
 				</Stack>
